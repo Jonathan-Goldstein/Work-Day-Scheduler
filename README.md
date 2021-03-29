@@ -17,7 +17,6 @@ https://jonathan-goldstein.github.io/Work-Day-Scheduler/
 
 ![plot](./assets/images/Image1.jpeg)
 
-## The weather forecast with UV Index Green:
 
 ![plot](./assets/images/Image2.jpeg)
 
