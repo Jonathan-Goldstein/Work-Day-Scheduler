@@ -15,10 +15,10 @@ This application is a  daily planner that is used to create a schedule. When a u
 https://jonathan-goldstein.github.io/Work-Day-Scheduler/
 ## The landing page:
 
-![plot](./assets/images/Screen Shot 2021-03-29 at 2.16.53 PM.jpeg)
+![plot](./assets/images/Image1.jpeg)
 
 ## The weather forecast with UV Index Green:
 
-![plot](./assets/images/Screen Shot 2021-03-29 at 2.23.38 PM.jpeg)
+![plot](./assets/images/Image2.jpeg)
 
 
